@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FakeDb</id>
+    <version>0.2.19</version>
+    <title>Fake DB</title>
+    <authors>Fake DB Contributers</authors>
+    <owners>Fake DB Contributers</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/buddhike/FakeDb</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>In memory DB for unit testing.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Testing</tags>
+  </metadata>
+</package>

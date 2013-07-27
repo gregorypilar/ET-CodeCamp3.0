@@ -1,0 +1,11 @@
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\bin\Debug\ETConsole.exe.config
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\bin\Debug\ETConsole.exe
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\bin\Debug\ETConsole.pdb
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\bin\Debug\EntityFramework.dll
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\bin\Debug\EntityFramework.xml
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.csprojResolveAssemblyReference.cache
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.exe
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.pdb
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.Migrations.nombre_bonito.resources
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.csproj.GenerateResource.Cache
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\ETConsole\obj\Debug\ETConsole.Migrations.nombre_bonito_yes.resources

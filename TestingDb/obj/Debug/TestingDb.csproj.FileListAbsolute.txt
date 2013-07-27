@@ -1,0 +1,10 @@
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\TestingDb.dll
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\TestingDb.pdb
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\EntityFramework.dll
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\ETConsole.exe
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\FakeDb.dll
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\ETConsole.pdb
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\bin\Debug\EntityFramework.xml
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\obj\Debug\TestingDb.csprojResolveAssemblyReference.cache
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\obj\Debug\TestingDb.dll
+C:\Users\Gregory\Documents\Visual Studio 2012\Projects\ETConsole\TestingDb\obj\Debug\TestingDb.pdb

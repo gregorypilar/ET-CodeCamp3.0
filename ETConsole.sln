@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETConsole", "ETConsole\ETConsole.csproj", "{61B04594-97F9-4B45-9BF4-C6899372B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingDb", "TestingDb\TestingDb.csproj", "{DF996F51-E13B-4CF0-86B4-D34F0C38A2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B04594-97F9-4B45-9BF4-C6899372B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B04594-97F9-4B45-9BF4-C6899372B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B04594-97F9-4B45-9BF4-C6899372B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B04594-97F9-4B45-9BF4-C6899372B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF996F51-E13B-4CF0-86B4-D34F0C38A2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF996F51-E13B-4CF0-86B4-D34F0C38A2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF996F51-E13B-4CF0-86B4-D34F0C38A2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF996F51-E13B-4CF0-86B4-D34F0C38A2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
